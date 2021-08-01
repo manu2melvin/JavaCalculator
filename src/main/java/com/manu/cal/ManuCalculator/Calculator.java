@@ -1,4 +1,4 @@
-package com.manu.cal.RaviCalculator;
+package com.manu.cal.ManuCalculator;
 
 public class Calculator {
 
